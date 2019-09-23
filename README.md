@@ -11,4 +11,4 @@ Then the detected points will be shown on the interface.
 
 
 
-![20190923022043](image\20190923022043.png)
+![20190923022043](image/20190923022043.png)
